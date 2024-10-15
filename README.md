@@ -1,4 +1,4 @@
-[<img src="https://i.ytimg.com/vi/q1c7BIsLqdY/maxresdefault.jpg" width="50%">](https://youtu.be/q1c7BIsLqdY "Press The Attack Gameplay")
+[<img src="https://img.youtube.com/vi/q1c7BIsLqdY/maxresdefault.jpg" width="50%">](https://youtu.be/q1c7BIsLqdY "Press The Attack Gameplay")
 
 https://omerburakozgur.itch.io/traces-of-twins
 
@@ -8,7 +8,7 @@ A 3D story mystery game that I developed to help with job applications. I develo
 
 **CREDITS**
 
-**Ömer Burak Özgür (Lead) **
+**Ömer Burak Özgür (Lead)**
 
 www.github.com/omerburakozgur
 
@@ -18,7 +18,7 @@ omerburakozgur1@gmail.com
 
 Entire Unity Side, Programming, Mechanics, All Minigames, Systems, Level Design, NPC Rigging and Animations (Mixamo), Lighting, UI Design and Coding, In-Game Animations, Optimization, Concept, Game and Minigame and Design Ideas, Dialogues, Sounds, Quests, Police Station Model and Some Other Designs (Blender), Asset and Model Searching, Playtesting, Bug Fixing Ömer Burak ÖZGÜR
 
-**Mehmet Mert Tandır **
+**Mehmet Mert Tandır**
 
 www.linkedin.com/in/mehmetmerttandir
 
