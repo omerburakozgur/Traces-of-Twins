@@ -1,4 +1,4 @@
-[<img src="https://img.youtube.com/vi/q1c7BIsLqdY/maxresdefault.jpg" width="50%">](https://youtu.be/q1c7BIsLqdY "Press The Attack Gameplay")
+[<img src="https://img.youtube.com/vi/q1c7BIsLqdY/maxresdefault.jpg" width="100%">](https://youtu.be/q1c7BIsLqdY "Press The Attack Gameplay")
 
 https://omerburakozgur.itch.io/traces-of-twins
 
