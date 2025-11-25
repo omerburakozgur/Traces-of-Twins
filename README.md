@@ -12,13 +12,15 @@
   </a>
 </p>
 
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/90705984/518110544-0010e032-956b-4c16-959f-9f6eae67270b.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251124%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251124T125050Z&X-Amz-Expires=300&X-Amz-Signature=a21608b5233da8cba8c89661e6a16e60989cf4cfa16be2cffb585257d27c0fe3&X-Amz-SignedHeaders=host" alt="Gameplay Preview" width="100%" style="border-radius: 8px;" />
+<h3>🎥 Gameplay Showcase (Click to Watch)</h3> <a href="https://youtu.be/hN8WNtm1iks" target="_blank" title="Click to watch full gameplay video"> <img src="https://github.com/user-attachments/assets/10c55ee3-f336-41d8-a24c-89e1a66229b0" alt="To The Reach Gameplay GIF" width="800" style="max-width:100%; border-radius: 8px; border: 2px solid #FF0000;"> </a>
 
+<br>
 <br>
 
 | **Role** | **Engine** | **Platform** | **Team Structure** |
 | :---: | :---: | :---: | :---: |
 | <img src="https://img.shields.io/badge/Lead_Developer-blue?style=flat-square" /> | <img src="https://img.shields.io/badge/Unity_3D-000000?style=flat-square&logo=unity&logoColor=white" /> | <img src="https://img.shields.io/badge/PC_%7C_Android-3DDC84?style=flat-square&logo=windows&logoColor=white" /> | <img src="https://img.shields.io/badge/1_Lead_Dev_%2C_2_Designers-orange?style=flat-square" /> |
+
 
 </div>
 
