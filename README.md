@@ -1,7 +1,7 @@
 <div align="center">
     <h3>🕵️3D Narrative-Driven Mystery & Detective Game</h3><div align="center">
     <p>
-  </p><p> <a href="https://github.com/omerburakozgur/Traces-of-Twins" target="_blank"> <img src="https://img.shields.io/badge/Source_Code-GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub"> 
+  </p><p> <a href="https://omerburakozgur.itch.io/traces-of-twins"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io"></a>
   </a> <a href="https://docs.google.com/spreadsheets/d/1qScDjcwksfNEI0XTjJ5h9I4on9ndayCG0LV6NSkvzc0/edit?usp=sharing" target="_blank"> <img src="https://img.shields.io/badge/Document-2B5797?style=for-the-badge&logo=googledocs&logoColor=white" alt="Document"> </a> 
   <a href="https://www.youtube.com/watch?v=q1c7BIsLqdY" target="_blank"> <img src="https://img.shields.io/badge/Watch-Tech_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video"> </a> 
   <a target="_blank" href="https://www.artstation.com/artwork/rlmDAa"> <img alt="ArtStation" src="https://img.shields.io/badge/Visuals-Artstation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white"> </a>
