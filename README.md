@@ -6,7 +6,7 @@
   <a href="https://www.youtube.com/watch?v=q1c7BIsLqdY" target="_blank"> <img src="https://img.shields.io/badge/Watch-Tech_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video"> </a> 
   <a target="_blank" href="https://www.artstation.com/artwork/rlmDAa"> <img alt="ArtStation" src="https://img.shields.io/badge/Visuals-Artstation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white"> </a>
 </p></div>
-<h3>🎥 Gameplay Showcase (Click to Watch)</h3> <a href="https://youtu.be/hN8WNtm1iks" target="_blank" title="Click to watch full gameplay video"> <img src="https://github.com/user-attachments/assets/10c55ee3-f336-41d8-a24c-89e1a66229b0" alt="To The Reach Gameplay GIF" width="800" style="max-width:100%; border-radius: 8px; border: 2px solid #FF0000;"> </a>
+<h3>🎥 Gameplay Showcase (Click to Watch)</h3> <a href="https://www.youtube.com/watch?v=q1c7BIsLqdY" target="_blank" title="Click to watch full gameplay video"> <img src="https://github.com/user-attachments/assets/10c55ee3-f336-41d8-a24c-89e1a66229b0" alt="To The Reach Gameplay GIF" width="800" style="max-width:100%; border-radius: 8px; border: 2px solid #FF0000;"> </a>
 
 </div>
 <hr>
